@@ -24,7 +24,7 @@
                         bindings = <
   &none   &mt LGUI RBKT     &kp Q   &kp W   &kp E         &kp R             &kp T         &kp Y         &kp U            &kp I         &kp O     &kp P      &kp LBKT        &none
           &mt LCTRL GRAVE   &kp A   &kp S   &kp D         &kp F             &kp G         &kp H         &kp J            &kp K         &kp L     &kp SEMI   &mt RCTRL SQT
-          &mt LSHFT MINUS    &mt LALT Z   &kp X   &kp C         &kp V             &kp B         &kp N         &kp M            &kp COMMA     &kp DOT   &kp FSLH   &mt RALT BSLH
+          &mt LSHFT MINUS    &mt LALT Z   &kp X   &kp C         &kp V             &kp B         &kp N         &kp M            &kp COMMA     &kp DOT   &mt  RALT FSLH   &mt  RSHFT BSLH
                                             &lt RSE TAB   &mt LSHFT RET   &lt LWR RET   &lt RSE ESC   &kp SPACE   &lt RSE DEL
                         >;
                 };
